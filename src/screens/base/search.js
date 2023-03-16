@@ -33,13 +33,15 @@ export const Search = ({route, navigation}) => {
       const pos = await retrieveLocal('position');
 
       setRegion({
-        latitude: position.latitude,
-        longitude: position.longitude,
+        latitude: pos.latitude,
+        longitude: pos.longitude,
         latitudeDelta: delta,
         longitudeDelta: delta,
       });
       setDb(allLoc);
       setPosition(pos);
+    } catch (err) {
+      console.log(err);
     } finally {
       setLoading(false);
     }
