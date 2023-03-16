@@ -1,0 +1,19 @@
+{
+  "rn_send": {
+    "prefix": "rn_send",
+    "description": "rn_send",
+    "scope": "javascript",
+    "body": [
+      " const send = async() => {",
+      "    try {",
+      "      setLoading(true)",
+      "",
+      "    } catch (error) {",
+      "      ",
+      "    } finally{",
+      "      setLoading(false)",
+      "    }",
+      "  }"
+    ]
+  }
+}

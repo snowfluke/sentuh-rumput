@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "684957327996",
+    "project_id": "sentuh-rumput",
+    "storage_bucket": "sentuh-rumput.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684957327996:android:66688bbc55deda6c2d9ff9",
+        "android_client_info": {
+          "package_name": "com.sentuhrumput"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684957327996-vc3u1misa6raqg3rit90pg8a6nhjkt9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sentuhrumput",
+            "certificate_hash": "d7bb63b4f5cc6a3ec02837e17fd1ac95de0e5c05"
+          }
+        },
+        {
+          "client_id": "684957327996-vq3egaf3btvsg6bpidouou5odtgbuali.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sentuhrumput",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "684957327996-8cg794pkro9m6ocslvu1oev275j37onp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZdgeLwjV1RBqB5vU84opt2PdiwsKedPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684957327996-8cg794pkro9m6ocslvu1oev275j37onp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
