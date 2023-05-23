@@ -16,18 +16,6 @@ Sentuh rumput highlight some key essentials features such as:
 - Relaxation media
 - Reports
 
-# Demo
-
-https://www.youtube.com/watch?v=HhgJs9lOf6Q
-
-# Proposals
-
-Read more about our proposal here: https://s.id/sentuh-rumput
-
-# Backend repository
-
-https://github.com/myudak/AdminPanelSentuhRumput
-
 # Installation
 
 ## General requirement
@@ -182,12 +170,12 @@ Assuming that you have downloaded or done a `git clone` on the repository provid
   Open two terminals on VSCode, run the following commands:
   Terminal 1:
   `bash
-   yarn start
-   `
+ yarn start
+ `
   Terminals 2:
   `bash
-   yarn run android
-   `
+ yarn run android
+ `
   The build process takes 7-15 minutes depending on the specifications of the machine used.
 
        ![](https://i.imgur.com/0IukWkZ.png)

@@ -17,7 +17,6 @@ import {
   displayToast,
   hasLocationPermission,
   retrieveLocal,
-  storeLocal,
 } from '../../helpers';
 
 const image = require('../../assets/illustrations/undraw_Jogging_re_k28i.png');
@@ -51,8 +50,8 @@ export const Login = ({navigation, route}) => {
       if (!localSettings) {
         const defaultSettings = {
           radius: 10,
-          hotMap: false,
-          publicTransport: false,
+          hotMap: true,
+          publicTransport: true,
           weatherForecast: false,
           darkTheme: false,
           language: {
