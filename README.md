@@ -170,15 +170,15 @@ Assuming that you have downloaded or done a `git clone` on the repository provid
   Open two terminals on VSCode, run the following commands:
   Terminal 1:
   `bash
- yarn start
- `
+yarn start
+`
   Terminals 2:
   `bash
- yarn run android
- `
+yarn run android
+`
   The build process takes 7-15 minutes depending on the specifications of the machine used.
 
-       ![](https://i.imgur.com/0IukWkZ.png)
+        ![](https://i.imgur.com/0IukWkZ.png)
 
 ### Build status
 
@@ -215,5 +215,3 @@ export const GOOGLE_MAPS_API_KEY = 'asdasdasdsd';
 ```
 
 !! IMPORTANT !! DON'T FORGET TO PASS THE API AS WELL IN `AndroidManifest.xml`
-
-# Developed by Team Sandbox

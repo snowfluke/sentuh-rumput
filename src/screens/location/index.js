@@ -159,7 +159,7 @@ export const Location = ({route, navigation}) => {
         )}
         <Spacing />
         <H1 style={{textAlign: 'center'}}>{destination?.name}</H1>
-        <P style={{textAlign: 'center'}}>Ditambahkan oleh: Tim Sandbox</P>
+        <P style={{textAlign: 'center'}}>Ditambahkan oleh: Tim Juara</P>
         <Spacing />
 
         <View

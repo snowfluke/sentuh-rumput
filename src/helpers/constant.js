@@ -10,7 +10,7 @@ export const DB = [
     name: 'Taman Hutan Kota Kampung Sawah',
     rating: '4',
     official: true,
-    by: 'Team Sandbox',
+    by: 'Team Juara',
     reviews: [
       {
         from: 'saadhi***@gmail.com',
@@ -34,7 +34,7 @@ export const DB = [
     name: 'Hutan Kota Kebon Pisang Penjaringan',
     rating: '5',
     official: true,
-    by: 'Team Sandbox',
+    by: 'Team Juara',
     reviews: [
       {
         from: 'slametc***@gmail.com',
